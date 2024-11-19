@@ -1,0 +1,10 @@
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.Form1.resources
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.Properties.Resources.resources
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.csproj.GenerateResource.cache
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\bin\Debug\Lab_7Task1.exe.config
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\bin\Debug\Lab_7Task1.exe
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\bin\Debug\Lab_7Task1.pdb
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.exe
+C:\Users\Micro\source\repos\Lab_7Task1\Lab_7Task1\obj\Debug\Lab_7Task1.pdb
