@@ -1,0 +1,10 @@
+D:\VS\Lab07_task08\Lab07_task08\bin\Debug\Lab07_task08.exe.config
+D:\VS\Lab07_task08\Lab07_task08\bin\Debug\Lab07_task08.exe
+D:\VS\Lab07_task08\Lab07_task08\bin\Debug\Lab07_task08.pdb
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.csproj.AssemblyReference.cache
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.Form1.resources
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.Properties.Resources.resources
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.csproj.GenerateResource.cache
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.csproj.CoreCompileInputs.cache
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.exe
+D:\VS\Lab07_task08\Lab07_task08\obj\Debug\Lab07_task08.pdb
